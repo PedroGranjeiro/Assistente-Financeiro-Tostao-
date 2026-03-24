@@ -1,6 +1,6 @@
 # Assets
 
-Recursos visuais do projeto:
+Recursos visuais do projeto do Tostão:
 
 - Diagramas de arquitetura
 - Screenshots da aplicação

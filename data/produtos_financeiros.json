@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Tesouro Selic",
+    "categoria": "Renda Fixa",
+    "risco": "Baixo",
+    "liquidez": "Diária",
+    "descricao_tostao": "Título de dívida emitido pelo Governo Federal, considerado o investimento de menor risco do mercado. Possui liquidez diária, permitindo resgates a qualquer momento, o que o torna ideal para a gestão e construção de uma reserva de emergência."
+  },
+  {
+    "id": 2,
+    "nome": "CDB de Liquidez Diária",
+    "categoria": "Renda Fixa",
+    "risco": "Baixo",
+    "liquidez": "Diária",
+    "descricao_tostao": "Certificado de Depósito Bancário onde o investidor aplica recursos em uma instituição financeira. Conta com a proteção do Fundo Garantidor de Créditos (FGC) e oferece flexibilidade para saques diários, sendo uma alternativa sólida para manter o capital acessível e rentabilizado."
+  },
+  {
+    "id": 3,
+    "nome": "Fundos Imobiliários (FIIs)",
+    "categoria": "Renda Variável",
+    "risco": "Médio",
+    "liquidez": "Variável",
+    "descricao_tostao": "Investimento focado no mercado imobiliário, como galpões logísticos e lajes corporativas. Os investidores adquirem cotas do fundo e recebem rendimentos mensais proporcionais, similares a aluguéis. Por ser negociado em bolsa, o valor das cotas está sujeito às oscilações de mercado."
+  }
+]

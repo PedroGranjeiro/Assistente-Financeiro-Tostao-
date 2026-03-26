@@ -2,7 +2,6 @@
 
 Recursos visuais do projeto do Tostão:
 
-- Diagramas de arquitetura
-- Screenshots da aplicação
-- Mockups de interface
-- Imagens para o README
+- PDF com a apresentação utilizada no Pitch
+- Print do Chatbot
+- Logo em PNG do Tostão

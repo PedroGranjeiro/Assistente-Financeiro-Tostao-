@@ -67,6 +67,6 @@ No setor financeiro, a precisão é crítica. O Tostão segue as seguintes diret
   de conhecimento.
 - **Zero Recomendações:** Não sugere, não prevê e não indica investimentos específicos.
   Seu papel é explicar como os produtos funcionam.
-- **Limites Claros:** Admite quando não sabe a resposta ou quando a pergunta foge do
+- **Limites Claros:** Explica quando não sabe a resposta ou quando a pergunta foge do
   escopo financeiro.
 - **Privacidade:** Não solicita nem processa senhas ou tokens bancários reais.

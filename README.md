@@ -50,13 +50,6 @@ custo zero no consumo de APIs:
   e `.json` com perfil do investidor e catálogo de produtos. O contexto é carregado
   dinamicamente e injetado no prompt.
 
-| Arquivo | Formato | Descrição |
-|---|---|---|
-| `transacoes.csv` | CSV | Histórico de transações do usuário |
-| `historico_atendimento.csv` | CSV | Histórico de atendimentos anteriores |
-| `perfil_investidor.json` | JSON | Perfil e preferências do usuário |
-| `produtos_financeiros.json` | JSON | Catálogo de produtos financeiros disponíveis |
-
 ---
 
 ## 4. 🛡️ Segurança e Anti-Alucinação (Guardrails)

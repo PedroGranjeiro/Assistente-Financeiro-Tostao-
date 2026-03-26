@@ -7,7 +7,6 @@ de interface, conexão com o modelo de IA local e processamento do banco de dado
 ```text
 src/
 ├── app.py              # Aplicação principal (Interface Streamlit + Guardrails)
-├── gerador_slides.py   # Script auxiliar para apresentações
 └── README.md           # Instruções de execução local
 ```
 
